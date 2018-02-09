@@ -1,0 +1,65 @@
+/* CSS Document */
+
+#d1{
+	height:2200px;
+}
+
+.d1_21{
+	width:290px;
+	height:500px;
+	float:left;
+	padding-top:-10px;
+	margin-left:10px;
+	margin-top:0px;
+	padding-left:0px;
+	opacity:1;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+	background-color:#ffffff;
+	border:10px solid #FFF;
+}
+
+img{
+	float:left;
+}
+
+.d1_21:hover{
+	border:10px solid #aaa;
+	background-color:#333;
+} 
+
+hr{
+	width:250px;
+	color:blue;
+}
+
+.d1_21 div{
+	margin-top:400px;
+}
+
+#d1_212{
+	margin-top:440px;
+}
+
+#d1_213{
+	margin-top:350px;
+}
+
+#d1_214{
+	margin-top:430px;
+}
+#d1_215{
+	margin-top:490px;
+}
+#d1_216{
+	margin-top:455px;
+}
+
+.d1_21 a:link{
+	text-decoration:none;
+	color:#333;
+}
+
+.d1_21 a:hover{
+	color:#fff;
+	font-size:x-large;
+}

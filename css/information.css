@@ -1,0 +1,56 @@
+/* CSS Document */
+#d1{
+	height:2200px;
+}
+
+.d1_11{
+	width:1000px;
+	padding-top:570px;
+	font-family:"微软雅黑";
+	
+}
+
+.d1_112{
+	float:left;
+	width:1000px;
+	height:300px;
+	background-color:#ffffff;
+	margin-top:10px;
+	padding-left:10px;
+	opacity:1;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.8);
+}
+
+img{
+	float:left;
+	padding-top:10px;
+	padding-left:5px;
+}
+
+.d1_112 div{
+	padding-left:100px;
+	padding-top:10px;
+	float:left;
+	width:300px;
+}
+.d1_112:hover{
+	background-color:#666;
+	color:#FFF;
+}
+
+.d1_112 a:link{
+	text-decoration:none;
+	color:#000;
+}
+
+.d1_112 a:hover{
+	color:#FFF;
+}
+
+#img_1{
+	padding-left:10px;
+}
+
+#d1_113{
+	padding-left:125px;
+}
